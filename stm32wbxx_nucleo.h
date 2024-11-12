@@ -28,6 +28,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32wbxx_nucleo_errno.h"
+#include "stm32wbxx_nucleo_conf.h"
 
 #if (USE_BSP_COM_FEATURE > 0)
   #if (USE_COM_LOG > 0)
